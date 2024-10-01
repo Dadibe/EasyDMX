@@ -16,7 +16,7 @@ EasyDMX is a library designed for sending and receiving DMX512 with an ESP32, ai
 Create a new PlatformIO project and add the following to your `platformio.ini` file (append to the existing `lib_deps` if it already exists by creating a new line with the same indentation):
 ```ini
 lib_deps =
-    https://github.com/tesa-klebeband/EasyDMX
+    https://github.com/dadibe/EasyDMX
 ```
 
 ## Using EasyDMX
