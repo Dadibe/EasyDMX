@@ -6,13 +6,13 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/tesa-klebeband/EasyDMX.git"
+    "url": "https://github.com/dadibe/EasyDMX.git"
   },
   "authors":
   [
     {
-      "name": "tesa-klebeband",
-      "url": "https://github.com/tesa-klebeband",
+      "name": "dadibe",
+      "url": "https://github.com/dadibe",
       "maintainer": true
     }
   ],
